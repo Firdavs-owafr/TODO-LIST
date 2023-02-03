@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T04:14:46.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="26ZweQ6kqjrb5eojgmgm" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T04:16:05.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lu5TI4QnlBlMCBV-S55S" version="20.5.1" type="github">
   <diagram id="oJCzCop8_NZSrVYvADiq" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GLXv6s05u9TO8IVlVRq2-1" value="HTML Web Sahifamizni Strukturasi&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="GLXv6s05u9TO8IVlVRq2-1" value="&lt;b&gt;HTML &lt;/b&gt;Web Sahifamizni Strukturasi&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="60" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GLXv6s05u9TO8IVlVRq2-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -13,8 +13,8 @@
             <mxPoint x="360" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GLXv6s05u9TO8IVlVRq2-3" value="Style Bersak bo;&#39;ladi CSS yoki SASS" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="330" width="240" height="60" as="geometry" />
+        <mxCell id="GLXv6s05u9TO8IVlVRq2-3" value="&lt;b&gt;Style &lt;/b&gt;Bersak bo&#39;ladi CSS yoki SASS" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="238" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GLXv6s05u9TO8IVlVRq2-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -22,8 +22,8 @@
             <mxPoint x="360" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GLXv6s05u9TO8IVlVRq2-5" value="JavaScript bilan Web Sahifamizni jonlantirsak bo&#39;ladi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="500" width="310" height="60" as="geometry" />
+        <mxCell id="GLXv6s05u9TO8IVlVRq2-5" value="&lt;b&gt;JavaScript &lt;/b&gt;bilan Web Sahifamizni jonlantirsak bo&#39;ladi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
